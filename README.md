@@ -1,6 +1,5 @@
 # Real-Time-Operating-System-Airbag
-
-In this project classical of image processing are used to classify traffic signs. It was part of the master's degree (Electronic Systems Engineering) at Heilbronn University of Applied Sciences.
+The goal of the project was to create a real time schedualer for an airbag system. It was part of the master's degree (Electronic Systems Engineering) at Heilbronn University of Applied Sciences.
 
 # How to run
  Start the Airbag_Scheduler_GUI.m with MATLAB software.
