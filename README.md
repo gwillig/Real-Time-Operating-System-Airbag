@@ -7,7 +7,7 @@ The goal of the project was to create a real time schedualer for an airbag syste
  * Grade: 1.0 (Very good)
 
 # Team
-* Marvin Köhler
+* Marvin Koehler
 * David Wirth
 
 # License
