@@ -5,3 +5,13 @@ The goal of the project was to create a real time schedualer for an airbag syste
  Start the Airbag_Scheduler_GUI.m with MATLAB software.
 
  * Grade: 1.0 (Very good)
+
+# Team
+* Marvin Köhler
+* David Wirth
+
+# License
+The MIT License (MIT)
+
+Copyright (c) 2018 Gustav Willig
+
